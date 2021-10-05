@@ -1,0 +1,14 @@
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.exe
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.pdb
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.csprojResolveAssemblyReference.cache
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.exe
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\ZarOyunu\obj\Debug\ZarOyunu.pdb
