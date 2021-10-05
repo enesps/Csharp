@@ -1,0 +1,14 @@
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\bin\Debug\Ornek001.exe.config
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\bin\Debug\Ornek001.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\bin\Debug\Ornek001.pdb
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\obj\Debug\Ornek001.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\obj\Debug\Ornek001.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\obj\Debug\Ornek001.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ornek001\obj\Debug\Ornek001.pdb
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\bin\Debug\Ornek001.exe.config
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\bin\Debug\Ornek001.exe
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\bin\Debug\Ornek001.pdb
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\obj\Debug\Ornek001.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\obj\Debug\Ornek001.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\obj\Debug\Ornek001.exe
+C:\Users\User\OneDrive\Masaüstü\ilker turan dersleri\Temel\Ornek001\obj\Debug\Ornek001.pdb
