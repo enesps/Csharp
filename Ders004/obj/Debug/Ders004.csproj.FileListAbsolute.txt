@@ -1,0 +1,13 @@
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\bin\Debug\Ders004.exe.config
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\bin\Debug\Ders004.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\bin\Debug\Ders004.pdb
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\obj\Debug\Ders004.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\obj\Debug\Ders004.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\obj\Debug\Ders004.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ders004\obj\Debug\Ders004.pdb
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\bin\Debug\Ders004.exe.config
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\bin\Debug\Ders004.exe
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\bin\Debug\Ders004.pdb
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\obj\Debug\Ders004.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\obj\Debug\Ders004.exe
+C:\Users\User\OneDrive\Masaüstü\Temel\Ders004\obj\Debug\Ders004.pdb
