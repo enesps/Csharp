@@ -1,0 +1,6 @@
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\bin\Debug\Ders003.exe.config
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\bin\Debug\Ders003.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\bin\Debug\Ders003.pdb
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\obj\Debug\Ders003.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\obj\Debug\Ders003.exe
+C:\Users\ARIBILGI\source\repos\Temel\Ders003\obj\Debug\Ders003.pdb
