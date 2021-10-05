@@ -1,0 +1,14 @@
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.exe.config
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v3\Nesneler_v2\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.exe.config
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\bin\Debug\OOP_Tekrar.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP_Tekrar\obj\Debug\OOP_Tekrar.pdb

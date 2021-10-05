@@ -1,0 +1,6 @@
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\bin\Debug\OOP-Kapsulleme.exe.config
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\bin\Debug\OOP-Kapsulleme.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\bin\Debug\OOP-Kapsulleme.pdb
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\obj\Debug\OOP-Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\obj\Debug\OOP-Kapsulleme.exe
+C:\Users\ARIBILGI\Downloads\Nesneler_v4\Nesneler\OOP-Kapsulleme\obj\Debug\OOP-Kapsulleme.pdb

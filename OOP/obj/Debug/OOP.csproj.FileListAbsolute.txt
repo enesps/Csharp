@@ -1,0 +1,7 @@
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\bin\Debug\OOP.exe.config
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\bin\Debug\OOP.exe
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\bin\Debug\OOP.pdb
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\obj\Debug\OOP.exe
+D:\ÖĞRETMEN YEDEK\Nesneler_v2\Nesneler\OOP\obj\Debug\OOP.pdb
